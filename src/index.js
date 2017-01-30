@@ -1,1 +1,3 @@
-let name = "Berend";
+import Main from './Main';
+
+let app = new Main();
